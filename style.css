@@ -42,7 +42,7 @@ header {
   justify-content: space-between;
   background: black;
   box-shadow: 0 4px 41px rgb(14 55 54 / 14%);
-  padding: 15px 10%;
+  padding: 11px 10%;
   transition: 0.2s;
 }
 .logo {
